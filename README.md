@@ -86,3 +86,9 @@ These algorithms approximate the area under a curve defined by a definite integr
 
 * **Code Optimization Tip:** In your interactive scripts, instead of evaluating the string function repeatedly with `sympy.sympify().subs()` inside your loops, use `sympy.lambdify` *once* before the loop starts. This compiles the text into a native Python function, drastically speeding up your algorithms!
 * **Fun Fact** 🤓 Simpson's rules are named after English mathematician Thomas Simpson, but the astronomer Johannes Kepler used incredibly similar geometric techniques over 100 years earlier to calculate the volume of wine barrels!
+
+---
+
+🎉 That’s All!
+I hope this detailed breakdown helps you master your Numerical Methods code and the math behind it!
+
